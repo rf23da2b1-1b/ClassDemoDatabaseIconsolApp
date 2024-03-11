@@ -6,7 +6,7 @@ namespace ClassDemoDatabaseIconsolApp
     public class DB_Drink
     {
         private const string ConnectionString =
-            "...connection-string";
+            "Data Source=mssql3.unoeuro.com;Initial Catalog=pele_zealand_dk_db_classdemo;User ID=pele_zealand_dk;Password=RexEByFhcwGbk943mAr6;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False";
 
 
 
